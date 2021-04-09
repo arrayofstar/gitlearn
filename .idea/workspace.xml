@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="33c541b5-5351-49be-b83f-5584d696f45a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="mf &lt;mengfan.1993@163.com&gt;" />
+        <option value="mf" />
+      </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GiteePullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="git@gitee.com:mengfan1993/gitlearn.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qsjKe9kk2rqv5751jOGwTWiWcW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33c541b5-5351-49be-b83f-5584d696f45a" name="Default Changelist" comment="" />
+      <created>1617875128895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617875128895</updated>
+    </task>
+    <task id="LOCAL-00001" summary="commit by pycharm">
+      <created>1617875590450</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617875590450</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add hello.py">
+      <created>1617929330364</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617929330364</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add hello.py for 1234">
+      <created>1617930219688</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617930219688</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add a md name oil and gas reservoir geology">
+      <created>1617941115322</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617941115322</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="commit by pycharm" />
+    <MESSAGE value="add hello.py" />
+    <MESSAGE value="add hello.py for 1234" />
+    <MESSAGE value="add a md name oil and gas reservoir geology" />
+    <option name="LAST_COMMIT_MESSAGE" value="add a md name oil and gas reservoir geology" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="650" y="39" key="CommitChangelistDialog2" timestamp="1617941112998">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="650" y="39" key="CommitChangelistDialog2/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1617941112998" />
+    <state x="2382" y="0" key="CommitChangelistDialog2/1920.0.1366.728/0.0.1920.1040@1920.0.1366.728" timestamp="1617929327646" />
+    <state x="242" y="190" width="1146" height="531" key="DiffContextDialog" timestamp="1617941118210">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="242" y="190" width="1146" height="531" key="DiffContextDialog/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1617941118210" />
+    <state x="832" y="533" key="Gitee.CreateGistDialog" timestamp="1617930181130">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="832" y="533" key="Gitee.CreateGistDialog/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1617930181130" />
+    <state x="613" y="347" key="Vcs.Push.Dialog.v2" timestamp="1617930235214">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="613" y="347" key="Vcs.Push.Dialog.v2/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1617930235214" />
+    <state x="490" y="355" width="1062" height="521" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1617929568342">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="355" width="1062" height="521" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1617929568342" />
+    <state x="815" y="378" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617941050133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="815" y="378" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1617941050133" />
+    <state x="815" y="378" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1366.728/0.0.1920.1040@1920.0.1366.728" timestamp="1617929353961" />
+  </component>
+</project>
