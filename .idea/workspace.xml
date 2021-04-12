@@ -35,6 +35,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="MF-home" />
         <option value="mf &lt;mengfan.1993@163.com&gt;" />
         <option value="mf" />
       </list>
@@ -142,34 +143,7 @@
     <MESSAGE value="add hello.py for 1234" />
     <MESSAGE value="add a md name oil and gas reservoir geology" />
     <MESSAGE value="rename the “油气储层地质学” to reservoir_geology" />
-    <option name="LAST_COMMIT_MESSAGE" value="rename the “油气储层地质学” to reservoir_geology" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="2139" y="0" key="CommitChangelistDialog2" timestamp="1617959402935">
-      <screen x="1920" y="0" width="1366" height="728" />
-    </state>
-    <state x="650" y="39" key="CommitChangelistDialog2/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1617941112998" />
-    <state x="2139" y="0" key="CommitChangelistDialog2/1920.0.1366.728/0.0.1920.1040@1920.0.1366.728" timestamp="1617959402935" />
-    <state x="242" y="190" width="1146" height="531" key="DiffContextDialog" timestamp="1617941118210">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="242" y="190" width="1146" height="531" key="DiffContextDialog/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1617941118210" />
-    <state x="832" y="533" key="Gitee.CreateGistDialog" timestamp="1617930181130">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="832" y="533" key="Gitee.CreateGistDialog/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1617930181130" />
-    <state x="613" y="347" key="Vcs.Push.Dialog.v2" timestamp="1617930235214">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="613" y="347" key="Vcs.Push.Dialog.v2/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1617930235214" />
-    <state x="490" y="355" width="1062" height="521" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1617929568342">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="490" y="355" width="1062" height="521" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1617929568342" />
-    <state x="815" y="378" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1617941050133">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="815" y="378" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1617941050133" />
-    <state x="815" y="378" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1366.728/0.0.1920.1040@1920.0.1366.728" timestamp="1617929353961" />
+    <MESSAGE value="add a reservoir_geology.xmind" />
+    <option name="LAST_COMMIT_MESSAGE" value="add a reservoir_geology.xmind" />
   </component>
 </project>
