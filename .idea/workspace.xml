@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="33c541b5-5351-49be-b83f-5584d696f45a" name="Default Changelist" comment="" />
+    <list default="true" id="33c541b5-5351-49be-b83f-5584d696f45a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/~$servoir_geology.docx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617941115322</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="rename the “油气储层地质学” to reservoir_geology">
+      <created>1617959407678</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617959407678</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -133,14 +142,15 @@
     <MESSAGE value="add hello.py" />
     <MESSAGE value="add hello.py for 1234" />
     <MESSAGE value="add a md name oil and gas reservoir geology" />
-    <option name="LAST_COMMIT_MESSAGE" value="add a md name oil and gas reservoir geology" />
+    <MESSAGE value="rename the “油气储层地质学” to reservoir_geology" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename the “油气储层地质学” to reservoir_geology" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="650" y="39" key="CommitChangelistDialog2" timestamp="1617941112998">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2139" y="0" key="CommitChangelistDialog2" timestamp="1617959402935">
+      <screen x="1920" y="0" width="1366" height="728" />
     </state>
     <state x="650" y="39" key="CommitChangelistDialog2/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1617941112998" />
-    <state x="2382" y="0" key="CommitChangelistDialog2/1920.0.1366.728/0.0.1920.1040@1920.0.1366.728" timestamp="1617929327646" />
+    <state x="2139" y="0" key="CommitChangelistDialog2/1920.0.1366.728/0.0.1920.1040@1920.0.1366.728" timestamp="1617959402935" />
     <state x="242" y="190" width="1146" height="531" key="DiffContextDialog" timestamp="1617941118210">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
