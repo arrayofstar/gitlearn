@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33c541b5-5351-49be-b83f-5584d696f45a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wellloging.xmind" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_2021-04-13_9_05__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Merge_at_2021-04-13_9_05__Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase__Default_Changelist_.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +38,9 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="mf" />
         <option value="MF-home" />
         <option value="mf &lt;mengfan.1993@163.com&gt;" />
-        <option value="mf" />
       </list>
     </option>
     <option name="PUSH_TAGS">
@@ -55,6 +55,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GiteePullRequestsUISettings">
     <option name="hiddenUrls">
@@ -124,7 +125,21 @@
       <option name="project" value="LOCAL" />
       <updated>1617959407678</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add a wellloging.xmind">
+      <created>1618276119449</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1618276119449</updated>
+    </task>
+    <task id="LOCAL-00007" summary="q">
+      <created>1618276194152</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1618276194152</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,6 +162,38 @@
     <MESSAGE value="add a md name oil and gas reservoir geology" />
     <MESSAGE value="rename the “油气储层地质学” to reservoir_geology" />
     <MESSAGE value="add a reservoir_geology.xmind" />
-    <option name="LAST_COMMIT_MESSAGE" value="add a reservoir_geology.xmind" />
+    <MESSAGE value="add a wellloging.xmind" />
+    <MESSAGE value="q" />
+    <option name="LAST_COMMIT_MESSAGE" value="q" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="89" key="CommitChangelistDialog2" timestamp="1618276193279">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="89" key="CommitChangelistDialog2/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1618276193279" />
+    <state x="242" y="190" width="1146" height="531" key="DiffContextDialog" timestamp="1618276112581">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="242" y="190" width="1146" height="531" key="DiffContextDialog/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1618276112581" />
+    <state x="66" y="80" key="MergeDialog" timestamp="1618276230653">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="66" y="80" key="MergeDialog/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1618276230653" />
+    <state x="477" y="274" key="MultipleFileMergeDialog" timestamp="1618276259146">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="477" y="274" key="MultipleFileMergeDialog/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1618276259146" />
+    <state x="434" y="246" key="Vcs.Push.Dialog.v2" timestamp="1618276152994">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="434" y="246" key="Vcs.Push.Dialog.v2/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1618276152994" />
+    <state x="636" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1618276207391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="426" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1618276207391" />
+    <state x="709" y="424" key="git4idea.rebase.GitUnstructuredEditor" timestamp="1618276262781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="709" y="424" key="git4idea.rebase.GitUnstructuredEditor/1920.0.1366.728/0.0.1920.1040@0.0.1920.1040" timestamp="1618276262781" />
   </component>
 </project>
