@@ -1,0 +1,1 @@
+pandoc -s file.docx -t markdown -o file.md
