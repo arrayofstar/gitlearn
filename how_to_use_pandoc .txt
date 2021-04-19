@@ -1,3 +1,5 @@
 pandoc -s file.docx -t markdown -o file.md
 
 pandoc -s reservoir_geology.docx -t markdown -o reservoir_geology.md
+
+pandoc -s wellloging.docx -t markdown -o wellloging.md
